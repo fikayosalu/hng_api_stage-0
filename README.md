@@ -32,7 +32,7 @@ The API exposes a single endpoint `/me` that returns basic user information, a t
    ```
 3. **Install Dependencies**
    ```bash
-   pip install flask flask-cors requests
+   pip install -r requirements.txt
    ```
 
 ## ▶ Running the App
